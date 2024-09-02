@@ -36,3 +36,5 @@
 ### 8. Plano de Lançamento
 **Lançamento:** Três dimensões iniciais, combate completo, modo cooperativo.
 **Atualizações:** Novas dimensões e eventos futuros.
+
+teste
